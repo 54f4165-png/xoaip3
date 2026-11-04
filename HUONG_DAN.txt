@@ -1,0 +1,5 @@
+RESETIP3 USER — RED HACKER CONSOLE
+Giai nen va upload 3 file index.html, xoaip-chat.js, hacker-icon.svg len repository USER.
+Firebase: resetip3; Realtime Database: https://resetip3-default-rtdb.firebaseio.com/
+Giữ logic quét, xóa, chat và Cloudinary của bản gốc. Đã thay đổi UI USER, Live Activity và chat.
+Chú ý: quét/xóa là mô phỏng trạng thái theo danh sách approvedUsers, không thực hiện quét bảo mật thực.

@@ -1,0 +1,11 @@
+RESETIP3 — USER — WEB THU 3
+Firebase project: resetip3
+Realtime Database: https://resetip3-default-rtdb.firebaseio.com/
+Cloudinary: giu nguyen thong so upload cua file goc.
+USER: giao dien Aurora Desk moi, khong dung Matrix.
+ADMIN: giu giao dien quan tri va tinh nang hien tai.
+Deploy: giai nen, dua index.html, xoaip-chat.js va cac tai nguyen kem theo vao repository USER rieng.
+Firebase Authentication: bat Anonymous va Email/Password.
+Firebase Realtime Database: cai dat chatRooms Rules, approvedUsers, adminUids voi UID admin moi.
+Khong copy adminUids cua website cu neu khong phai UID tai khoan admin du an resetip3.
+Cac tin nhan va approvedUsers cu khong tu dong chuyen sang project moi.
